@@ -18,3 +18,8 @@ p{
 li{
     list-style-type: none;
 }
+
+button{
+    padding: 0 5px 0 5px ;
+    background-color: brown;
+}
