@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: blueviolet;
+}
+
+p{
+    font-weight: 600;
+    color: green;
+}
+
+li{
+    list-style-type: none;
+}
